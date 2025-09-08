@@ -5,6 +5,9 @@ This project is lightweight, beginner-friendly, and great for anyone looking to 
 
 ---
 
+![https://github.com/SaaiAravindhRaja/Assets/issues/9#issue-3394755549]
+
+
 ## 🚀 Features
 - Fully responsive **8x8 chessboard** layout  
 - Standard **piece setup** (white & black pieces in correct positions)  
@@ -12,4 +15,5 @@ This project is lightweight, beginner-friendly, and great for anyone looking to 
 - Built entirely with **vanilla HTML, CSS, and JavaScript** (no external libraries)  
 
 ---
+
 
