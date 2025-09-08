@@ -1,12 +1,14 @@
 # ♟️ MyChessApp
 
 An interactive chessboard built using **HTML, CSS, and JavaScript**, designed to follow standard chess rules.  
-This project is lightweight, beginner-friendly, and great for anyone looking to learn how to implement a chessboard in the browser.
 
 ---
 
-![https://github.com/SaaiAravindhRaja/Assets/issues/9#issue-3394755549]
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20797c69-f129-4a5d-8a53-1a616a751c2a" alt="MyChessApp Icon" width="150"/>
+</p>
 
+---
 
 ## 🚀 Features
 - Fully responsive **8x8 chessboard** layout  
@@ -16,4 +18,6 @@ This project is lightweight, beginner-friendly, and great for anyone looking to 
 
 ---
 
-
+<p align="center">
+  Built with ❤️
+</p>
